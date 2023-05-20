@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammadsadiq2611](https://github.com/Muhammadsadiq2611)
 
-- ⚡ Fun fact **I like you 😉**
+- ⚡ Fun fact **love to work... 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
