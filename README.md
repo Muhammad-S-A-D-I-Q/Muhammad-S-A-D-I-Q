@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **java script**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammadsadiq2611](https://github.com/Muhammadsadiq2611)
+- 👨‍💻 All of my projects are available at [https://github.com/Muhammad-S-A-D-I-Q)
 
 - 📫 How to reach me **sadiqhussain0445@gmaail.com**
 
