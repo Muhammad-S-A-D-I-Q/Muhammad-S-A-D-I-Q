@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-S-A-D-I-Q)
 
-- 📫 How to reach me **sadiqhussain0445@gmaail.com**
+- 📫 How to reach me **sadiqhussain0445@gmail.com**
 
 - ⚡ Fun fact **Love to code**
 
