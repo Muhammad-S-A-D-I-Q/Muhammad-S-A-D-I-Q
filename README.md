@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Muhammad Sadiq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p > <img src="https://komarev.com/ghpvc/?username=muhammad-s-a-d-i-q&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-s-a-d-i-q" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-s-a-d-i-q&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-s-a-d-i-q" /> </p>
 
 - 🌱 I’m currently learning **java script**
 
